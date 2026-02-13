@@ -1,14 +1,28 @@
-#Taller Framework React my app giphy Jose Fernando Villegas Lora
+# My App GIFs
 
-# React + Vite
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Aplicación web para buscar y visualizar GIFs a partir de una palabra clave.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Descripción
 
-## Expanding the ESLint configuration
+Este proyecto fue construido como práctica de React.  
+Permite:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Buscar GIFs por categoría.
+- Mostrar resultados dinámicamente.
+- Practicar componentes, props y estado.
+- Consumir datos desde una API externa.
+
+---
+
+## 📦 Tecnologías
+
+- React  
+- Vite  
+- JavaScript
